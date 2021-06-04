@@ -1,2 +1,1 @@
-# test
-test
+JWG 홈페이지
